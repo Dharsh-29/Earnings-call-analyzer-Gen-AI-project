@@ -1,0 +1,404 @@
+{
+  "metadata": {
+    "company": "Laurus Labs",
+    "date": "Q2 FY24",
+    "pages": 18
+  },
+  "opening_chunks": [
+    {
+      "id": "C1",
+      "speaker": "Monish Shah",
+      "message": "Thank you, Michelle. Good evening, everyone, and welcome to Laurus Labs 2Q & H1 Results"
+    },
+    {
+      "id": "C2",
+      "speaker": "Satyanarayana Chava",
+      "message": "Thank you , Monish for hosting this conference call. Thank you for joining us for our Q2 & H1 \nFY24 Results Conference Call . We're pleased to have this opportunity to update you  on our \nprogress and answer your questions."
+    },
+    {
+      "id": "C3",
+      "speaker": "VV Ravi Kumar",
+      "message": "Not found"
+    }
+  ],
+  "qa_chunks": [
+    {
+      "id": "A1",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  Currently , our associate company Immun oACT  has partnered with Mexican Minister of Health"
+    },
+    {
+      "id": "Q2",
+      "speaker": "Jeevan Patwa",
+      "qa_tag": "question",
+      "message": "Jeevan Patwa:  Is there any other type of cancer that you are working on … any solid tumor cancer?"
+    },
+    {
+      "id": "A2",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  There is one Clinical candidate is in pipeline which is in preclinical , will go to Phase -II in the"
+    },
+    {
+      "id": "A3",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  The CMO  order we got from our partners for integrated manufacturing of API and formulations."
+    },
+    {
+      "id": "A4",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  The better gr oss margin in this quarter is primarily because of improvements we have done"
+    },
+    {
+      "id": "A5",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  The gross margin improvement, if you look at our second quarter FY23 was at 55% where our"
+    },
+    {
+      "id": "Q6",
+      "speaker": "Tushar Manudhane",
+      "qa_tag": "question",
+      "message": "Tushar Manudhane:  Means  we can go back to 55% ?"
+    },
+    {
+      "id": "A6",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  I'm not commenting, but with the revenue growth primarily driven  by CDMO business, the"
+    },
+    {
+      "id": "A7",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  New groundbreaking ceremony was done last week is primarily to add more capacity for"
+    },
+    {
+      "id": "Q8",
+      "speaker": "Bharat",
+      "qa_tag": "question",
+      "message": "Bharat:  This unit-7 for a specific customer or is it for generic  -?"
+    },
+    {
+      "id": "A8",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  There are two si tes. We are creating common infrastructure and building one block in each of"
+    },
+    {
+      "id": "Q9",
+      "speaker": "Bharat",
+      "qa_tag": "question",
+      "message": "Bharat:  May I know what is the CAPEX for FY25?"
+    },
+    {
+      "id": "A9",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  We will give you more details in the next quarter conference call about the new CAPEX in those"
+    },
+    {
+      "id": "A10",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  When we are saying this year will be a year of consolidation , that means we are adding a lot of"
+    },
+    {
+      "id": "A11",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  Thanks, Vivek. The growth in oncology business is also a pleasant surprise for us as well . Maybe"
+    },
+    {
+      "id": "A12",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  We certainly believe so because we have order books well beyond Q4 t his year ."
+    },
+    {
+      "id": "A13",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  I can give you a number for North America . This year all put together, it could be $35-40 million"
+    },
+    {
+      "id": "A14",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  In the synthesis, there are several projects in the clinical phase right now. We believe we are"
+    },
+    {
+      "id": "A15",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  We cannot give you the exact cost to the patient. We can only give you what is the product cost"
+    },
+    {
+      "id": "Q16",
+      "speaker": "Madhav",
+      "qa_tag": "question",
+      "message": "Madhav:  What's the patient population in India , do we have any broad estima tion for that?"
+    },
+    {
+      "id": "A16",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  I don't have the right number with us, but currently , Immuno ACT  geared up to deliver about 500"
+    },
+    {
+      "id": "A17",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  As I mentioned in our presentation, we have about 10 commercial products, four APIs and other"
+    },
+    {
+      "id": "A18",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  We have built capacity for commercial products already. The addi tional capacity , for example ,"
+    },
+    {
+      "id": "A19",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  ARV is 49% ."
+    },
+    {
+      "id": "Q20",
+      "speaker": "Krish Mehta",
+      "qa_tag": "question",
+      "message": "Krish Mehta:  Could you provide the split between your AR V FDF a nd non -ARV FDF for this quarter?"
+    },
+    {
+      "id": "A20",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  We have done about Rs.110 crores of non -ARV for mulations. If you look at our split there, it is"
+    },
+    {
+      "id": "Q21",
+      "speaker": "Ranvir Singh",
+      "qa_tag": "question",
+      "message": "Ranvir Singh:  My question is related to Immuno ACT . When we are expecting it to roll out in India ?"
+    },
+    {
+      "id": "A21",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  We expect the rollout will happen in the next  two months."
+    },
+    {
+      "id": "Q22",
+      "speaker": "Ranvir Singh",
+      "qa_tag": "question",
+      "message": "Ranvir Singh:  Do we have a plan to increase your stake there from 34% ?"
+    },
+    {
+      "id": "A22",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  It's too early to say anything because they have enough capital to deploy and if they get approval"
+    },
+    {
+      "id": "A23",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  Based on the current trend of growth in all segments, we expect the margins will be better when"
+    },
+    {
+      "id": "Q24",
+      "speaker": "Ranvir Singh",
+      "qa_tag": "question",
+      "message": "Ranvir Singh:  So overall for a full year, t he margin can we expect in the range of 20% at least?"
+    },
+    {
+      "id": "A24",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  I can still say we'll improve beyond this 15% right now, ye s."
+    },
+    {
+      "id": "Q25",
+      "speaker": "Ranvir Singh",
+      "qa_tag": "question",
+      "message": "Ranvir Singh:  Third  on bio side, have you added any more product s other than Trypsin in this division ?"
+    },
+    {
+      "id": "A25",
+      "speaker": "Dr. Satyanar ayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanar ayana Chava:  In bio, the majority revenue is driven by our CDMO partners. So , our revenue coming from"
+    },
+    {
+      "id": "Q26",
+      "speaker": "Ranvir Singh",
+      "qa_tag": "question",
+      "message": "Ranvir Singh:  So, on a full year bas is, what kind of potential we can see from th is division?"
+    },
+    {
+      "id": "A26",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  The H1 bio is Rs.89 crores and the second  half will also will be very similar to that, ye s. We"
+    },
+    {
+      "id": "A27",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  We have several examples. Our conviction put us into a very leadership position . For some"
+    },
+    {
+      "id": "A28",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  We can give you on our recent success . Our invest ment in cell therapy is a lot of uncertainties"
+    },
+    {
+      "id": "A29",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  We have derisked significantly, but we can't say 100%. We have multiple facilities now . We are"
+    },
+    {
+      "id": "A30",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  Our optimism in second -half is primarily driven by increased sales in API , ARV, increa sed sales"
+    },
+    {
+      "id": "A31",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  We are not expecting any new commercial sales during the second -half. We're only anticipating"
+    },
+    {
+      "id": "A32",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  That will be in the second -half of FY25."
+    },
+    {
+      "id": "A33",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  We are working on som e R&D projects with partner, but we don't expect commercial sales in"
+    },
+    {
+      "id": "A34",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  I said next six months."
+    },
+    {
+      "id": "Q35",
+      "speaker": "Nitin Agarwal",
+      "qa_tag": "question",
+      "message": "Nitin Agarwal:  So, do you expect some commercialization of human health business also in FY25?"
+    },
+    {
+      "id": "A35",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  I can't give more specific, but there are products w hich will go from Phase -II to Phase -III next"
+    },
+    {
+      "id": "Q36",
+      "speaker": "Nitin Agarwal",
+      "qa_tag": "question",
+      "message": "Nitin Agarwal:  Sir, this $100 million ongoing CAPEX in synthesis , by when do you see it is reasonably utilized?"
+    },
+    {
+      "id": "A36",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  Mid of next financ ial year onwards."
+    },
+    {
+      "id": "A37",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  Rs.105 crores are non-ARV business from formulations."
+    },
+    {
+      "id": "A38",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  Non-ARV  form ulations potential is very high . In ARV, API as well as formulations, we will"
+    },
+    {
+      "id": "A39",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  Our new approvals in US, our new contract manufacturing deals in APIs and formulations, our"
+    },
+    {
+      "id": "A40",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  We have two board membership there and we help them in thinking at about scale , some strategic"
+    },
+    {
+      "id": "Q41",
+      "speaker": "Nitin Agarwal",
+      "qa_tag": "question",
+      "message": "Nitin Agarwal:  Any role in the manufacturing?"
+    },
+    {
+      "id": "A41",
+      "speaker": "Dr. Satyanarayan a Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayan a Chava:  No. But in IIT, Kanpur we are operating our own facilit y there. So , just on the contrary to"
+    },
+    {
+      "id": "A42",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  See, CDMO,  supplies , timelines all depends on what our partner is requesting. Sometimes if the"
+    },
+    {
+      "id": "A43",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  Yes, that's the reason we didn't have any sequential growth."
+    },
+    {
+      "id": "A44",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  We're not giving guidance, but as we mentioned, this is exciting times for us in the company ,"
+    },
+    {
+      "id": "A45",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  I will give you a very broad number. It varies between one and two asset turn, all depends on"
+    },
+    {
+      "id": "A46",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  In the synthesis , if you look at the overall year , last year was lot of commercial supplies"
+    },
+    {
+      "id": "A47",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  The animal health is a contract signed with one customer for good chunk of products. And in"
+    },
+    {
+      "id": "A48",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  This is a very interesting question, but we can promise you we will get closer to 30%, but I will"
+    },
+    {
+      "id": "A49",
+      "speaker": "Dr. Satyanarayana Chava",
+      "qa_tag": "answer",
+      "message": "Dr. Satyanarayana Chava:  Thank you , Mo nish for organizing this call and thank you our stakeholders who have a lot of"
+    }
+  ]
+}
